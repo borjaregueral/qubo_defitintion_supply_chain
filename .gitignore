@@ -1,8 +1,0 @@
-# ignore all .txt files
-*.txt
-
-# ignore specific file
-
-
-# ignore all files in a specific directory
-/Users/borja/Documents/Quantum_Computing/Solution/venv/*
